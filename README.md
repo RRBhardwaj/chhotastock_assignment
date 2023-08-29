@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-TO create react app : npx create-react-app dashboard
+TO create react app : 
+### npx create-react-app dashboard
 
 ## Available Scripts
 
